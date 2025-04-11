@@ -2,6 +2,13 @@
 
 Modern support systems often struggle with slow response times, manual misrouting, and inconsistent resolutions. This project solves those challenges using a multi-agent AI pipeline integrated with Gemini LLM, NLP, and ML.
 
+---
+✨ Live Demo
+
+Experience the application live on Hugging Face Spaces:
+
+---
+
 ## 🚀 Features
 
 - 🧠 Summarizes entire conversations
