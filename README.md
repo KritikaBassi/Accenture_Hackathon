@@ -74,5 +74,5 @@ Modern support systems often struggle with slow response times, manual misroutin
 
 Built during **Hack the Future: A GenAI Sprint Powered by Data**
 
-- 👩‍💼 Shreya Singh 
-- 👩 Kritika Bassi   
+- Shreya Singh 
+- Kritika Bassi   
