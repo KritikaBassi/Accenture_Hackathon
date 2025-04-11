@@ -7,7 +7,7 @@ Modern support systems often struggle with slow response times, manual misroutin
 
 Experience the application live on Hugging Face Spaces:
 
-**[➡️ Try the Demo Here]((https://huggingface.co/spaces/KB14/Accenture_Hackathon))**
+**[➡️ Try the Demo Here](https://huggingface.co/spaces/KB14/Accenture_Hackathon)**
 
 ---
 
