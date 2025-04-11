@@ -1,0 +1,13 @@
+gradio
+pandas
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+tiktoken
+transformers
+datasets
+sentence-transformers
+scikit-learn
+numpy
