@@ -36,10 +36,6 @@ Experience the application live on Hugging Face Spaces:
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 📊 Dashboard Features
 
 - 🔍 Filter by **Status**, **Department**, and **Priority**  
